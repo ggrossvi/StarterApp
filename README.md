@@ -18,6 +18,7 @@ Favorite applications and features
 3. Airbnb
    a. The slider cards that have the information of the location 
    b. The map of the locations
-  
 
+This is what my app looks like currently.  
+  
 ![](https://github.com/ggrossvi/StarterApp/blob/main/StarterApp/Assets.xcassets/StarterAppIOS.gif)https://github.com/ggrossvi/StarterApp/blob/main/StarterApp/Assets.xcassets/StarterAppIOS.gif)
