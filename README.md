@@ -1,5 +1,7 @@
 App Brainstorming
 
+This app changes the background when you press the change color button.  
+
 Some ideas to improve the app are: 
 
 - Improve the UI by using different fonts/colors/background
@@ -22,3 +24,6 @@ Favorite applications and features
 This is what my app looks like currently.  
   
 ![](https://github.com/ggrossvi/StarterApp/blob/main/StarterApp/Assets.xcassets/StarterAppIOS.gif)https://github.com/ggrossvi/StarterApp/blob/main/StarterApp/Assets.xcassets/StarterAppIOS.gif)
+
+
+The next app I would like to work on is YappiHappi - An app for people who walk their dog/s and want to chat with others while they walk their dog/s.  They can chat with others in person or virtually.  
