@@ -4,6 +4,7 @@ This app changes the background when you press the change color button.
 
 Some ideas to improve the app are: 
 
+- Ask person their mood and change the background based on their mood.
 - Improve the UI by using different fonts/colors/background
 - Change other elements, such as image views, textfields, etc.
 - Implement a way to change the color of the text as well
