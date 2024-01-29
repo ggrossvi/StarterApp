@@ -16,7 +16,8 @@ Favorite applications and features
 1. Spotify
    a. Being able to like a song
    b. Slider menu at tops that allows you to slide to the left to reveal more
-   c. The song that is playing stays in place but you can scroll/move the rest of the page  
+   c. The song that is playing stays in place but you can scroll/move the rest of the page
+  
 2. Netflix
    a. The card of the selection you make with the picture and then the info
    b. Ability to remove the selection from the row
@@ -25,7 +26,7 @@ Favorite applications and features
    a. The slider cards that have the information of the location 
    b. The map of the locations
 
-This is what my app looks like currently.  
+This is what my app looks like currently.  It's my first iOS app!  I'm so excited.  
   
 ![](https://github.com/ggrossvi/StarterApp/blob/main/StarterApp/Assets.xcassets/StarterAppIOS.gif)https://github.com/ggrossvi/StarterApp/blob/main/StarterApp/Assets.xcassets/StarterAppIOS.gif)
 
