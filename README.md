@@ -12,6 +12,14 @@ Some ideas to improve the app are:
 
 The next app I would like to work on is YappiHappi - An app for people who walk their dog/s and want to chat with others while they walk their dog/s.  They can chat with others in person or virtually.  
 
+
+
+This is what my app looks like currently.  It's my first iOS app!  I'm so excited.  
+  
+![](https://github.com/ggrossvi/StarterApp/blob/main/StarterApp/Assets.xcassets/StarterAppIOS.gif)https://github.com/ggrossvi/StarterApp/blob/main/StarterApp/Assets.xcassets/StarterAppIOS.gif)
+
+To document my learning mobile journey about features I would like to learn about ....
+
 Favorite applications and features
 1. Spotify
    a. Being able to like a song
@@ -25,10 +33,6 @@ Favorite applications and features
 3. Airbnb
    a. The slider cards that have the information of the location 
    b. The map of the locations
-
-This is what my app looks like currently.  It's my first iOS app!  I'm so excited.  
-  
-![](https://github.com/ggrossvi/StarterApp/blob/main/StarterApp/Assets.xcassets/StarterAppIOS.gif)https://github.com/ggrossvi/StarterApp/blob/main/StarterApp/Assets.xcassets/StarterAppIOS.gif)
 
 
 
