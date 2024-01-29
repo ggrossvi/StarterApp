@@ -10,6 +10,8 @@ Some ideas to improve the app are:
 - Change other elements, such as image views, textfields, etc.
 - Implement a way to change the color of the text as well
 
+The next app I would like to work on is YappiHappi - An app for people who walk their dog/s and want to chat with others while they walk their dog/s.  They can chat with others in person or virtually.  
+
 Favorite applications and features
 1. Spotify
    a. Being able to like a song
@@ -28,4 +30,4 @@ This is what my app looks like currently.
 ![](https://github.com/ggrossvi/StarterApp/blob/main/StarterApp/Assets.xcassets/StarterAppIOS.gif)https://github.com/ggrossvi/StarterApp/blob/main/StarterApp/Assets.xcassets/StarterAppIOS.gif)
 
 
-The next app I would like to work on is YappiHappi - An app for people who walk their dog/s and want to chat with others while they walk their dog/s.  They can chat with others in person or virtually.  
+
