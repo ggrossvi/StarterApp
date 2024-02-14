@@ -1,10 +1,11 @@
-App Brainstorming
 
-This app changes the background when you press the change color button.  
+This is my first iOS app!  I'm so excited.   This app changes the background when you press the change color button.  
+![](https://github.com/ggrossvi/StarterApp/blob/main/StarterApp/Assets.xcassets/StarterAppIOS.gif)https://github.com/ggrossvi/StarterApp/blob/main/StarterApp/Assets.xcassets/StarterAppIOS.gif)
 
 Some ideas to improve the app are: 
 
-- Ask person their mood and change the background based on their mood.
+App Brainstorming- 
+Ask user about their mood and change the background based on their mood.
 - Make a function that takes in their mood and based on their response changes their mood.  
 - Improve the UI by using different fonts/colors/background
 - Change other elements, such as image views, textfields, etc.
@@ -12,11 +13,6 @@ Some ideas to improve the app are:
 
 The next app I would like to work on is YappiHappi - An app for people who walk their dog/s and want to chat with others while they walk their dog/s.  They can chat with others in person or virtually.  
 
-
-
-This is what my app looks like currently.  It's my first iOS app!  I'm so excited.  
-  
-![](https://github.com/ggrossvi/StarterApp/blob/main/StarterApp/Assets.xcassets/StarterAppIOS.gif)https://github.com/ggrossvi/StarterApp/blob/main/StarterApp/Assets.xcassets/StarterAppIOS.gif)
 
 To document my learning mobile journey about features I would like to learn about ....
 
