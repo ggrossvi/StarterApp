@@ -1,5 +1,5 @@
 
-This is my first iOS app!  I'm so excited.   This app changes the background when you press the change color button.  
+This is my first iOS app! This app changes the background when you press the change color button.  
 ![](https://github.com/ggrossvi/StarterApp/blob/main/StarterApp/Assets.xcassets/StarterAppIOS.gif)https://github.com/ggrossvi/StarterApp/blob/main/StarterApp/Assets.xcassets/StarterAppIOS.gif)
 
 Some ideas to improve the app are: 
